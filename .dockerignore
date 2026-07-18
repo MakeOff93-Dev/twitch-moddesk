@@ -1,0 +1,16 @@
+.env
+.git
+.gitignore
+.idea
+.vscode
+vendor
+storage/update-backups
+storage/update-locks
+storage/update-work
+storage/github-downloads
+storage/module-backups
+storage/module-work
+modules/*
+!modules/.htaccess
+*.log
+*.zip
