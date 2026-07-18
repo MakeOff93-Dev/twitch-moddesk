@@ -1,5 +1,17 @@
-![Logo](images/logo.png)
-# Twitch ModDesk
+
+
+<p align="center">
+  <img src="/images/logo.PNG" alt="Logo" >
+</p>
+<p align="center">
+  <img src="/images/login.PNG" alt="Login" >
+</p>
+<p align="center">
+  <img src="/images/Home.PNG" alt="Home" >
+</p>
+<p align="center">
+  <img src="/images/Bansync.PNG" alt="Home" >
+</p>
 
 Ein deutschsprachiges Admin- und Moderationspanel für Twitch-Teams. Das Projekt läuft ohne PHP-Framework, verwendet PDO und speichert sämtliche dauerhaften Anwendungsdaten sowie Web-Sitzungen in MySQL.
 
